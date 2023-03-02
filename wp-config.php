@@ -28,13 +28,13 @@ define('WP_CACHE', true); // Added by W3 Total Cache
 
 // ** Параметры базы данных: Эту информацию можно получить у вашего хостинг-провайдера ** //
 /** Имя базы данных для WordPress */
-define( 'DB_NAME', 'vidivids_db' );
+define( 'DB_NAME', 'vv5test_db' );
 
 /** Имя пользователя базы данных */
-define( 'DB_USER', 'vidivids_ya' );
+define( 'DB_USER', 'vv5test_db' );
 
 /** Пароль к базе данных */
-define( 'DB_PASSWORD', 'ZVBj6RGq' );
+define( 'DB_PASSWORD', '&n4dREEQ' );
 
 /** Имя сервера базы данных */
 define( 'DB_HOST', 'localhost' );

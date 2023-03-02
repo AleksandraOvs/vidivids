@@ -9,7 +9,7 @@ jQuery( function($) {
     var form = $(this);
     $.ajax({
       type: 'POST',
-      url: 'http://vidi/wp-content/themes/vidi-theme/templates/send.php',
+      url: 'http://vv5test.beget.tech/wp-content/themes/vidi-theme/templates/send.php',
       data: form.serialize(),
       beforeSend: function(xhr){
         form.find('button').text('Sending...');
